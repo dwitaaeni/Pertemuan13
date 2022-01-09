@@ -38,4 +38,4 @@ Berikut adalah tambahan kode eksepsi.<P>
 - Dengan menambahakan eksepsi maka:<P>
     - Saat input data kosong maka akan meminta untuk memasukan data kembali<P>
     - Saat input NIM dan Nilai menggunakan karakter maka program akan meminta untuk memasukan angka.<P>
-![gambar 1](Screenshot/Screenshot1.PNG)
+![gambar 1](Screenshot/Screenshot1.png)
