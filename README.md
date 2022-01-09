@@ -1,10 +1,10 @@
 # pertemuan13
-## TUGAS PERTEMUAN 13
-### Profil
+## Profil
 - Nama : D.Wita Aeni
 - Nim : 312110222
 - Kelas : TI.21.A.1
 
+## TUGAS PERTEMUAN 13
 - Implementasikan penggunaan eksepsi pada lab-lab
 sebelumnya untuk mengatasi error yang ditimbulkan.<P>
 
